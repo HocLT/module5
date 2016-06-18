@@ -1,0 +1,480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"p",
+				"parent〔function〕"
+			],
+			[
+				"remove",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"he",
+				"header	<header>"
+			],
+			[
+				"the",
+				"thead	<thead>"
+			],
+			[
+				"d",
+				"data-role=〔attribute〕"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"la",
+				"label	<label>"
+			],
+			[
+				"bodr",
+				"border-top"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"onKe",
+				"onkeyup	Attr"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"styl",
+				"stylesheet"
+			],
+			[
+				"doc",
+				"document〔variable〕"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"di",
+				"display〔variable〕"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"jqu",
+				"jQuery.get	jQuery.get"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/DATA/Programming/html/module5/module5-solution"
+	],
+	"file_history":
+	[
+		"/Volumes/DATA/Programming/html/module4/module4-solution/SpeakHello.js",
+		"/Volumes/DATA/Programming/html/module4/module4-solution/SpeakGoodBye.js",
+		"/Volumes/DATA/Programming/html/module4/module4-solution/script.js",
+		"/Volumes/DATA/Programming/html/fullstack-course4-master/examples/Lecture45/js/script.js",
+		"/Volumes/DATA/Programming/html/fullstack-course4-master/examples/Lecture45/index.html",
+		"/Volumes/MAC/working/Android/project/AbWorkouts/note.txt",
+		"/Volumes/DATA/Programming/html/fullstack-course4-master/examples/Lecture41/index.html",
+		"/Volumes/DATA/Programming/html/fullstack-course4-master/examples/Lecture41/js/script.js",
+		"/Volumes/DATA/Programming/html/module3/module3-solution/css/styles.css",
+		"/Volumes/DATA/Programming/html/module3/module3-solution/index.html",
+		"/Volumes/DATA/Programming/html/module3/module3-solution/js/script.js",
+		"/Volumes/DATA/Programming/html/module2/module2-solution/index.html",
+		"/Volumes/DATA/Programming/html/fullstack-course4-master/examples/Lecture25/index.html",
+		"/Volumes/DATA/Programming/html/module2/module2-solution/css/style.css",
+		"/Volumes/DATA/Programming/html/module2/index.html",
+		"/Volumes/DATA/Programming/html/coursera-test/site/index.html",
+		"/Volumes/MAC/working/PHP/GcmChat/libs/gcm/push.php",
+		"/Volumes/MAC/working/PHP/GcmChat/libs/gcm/gcm.php",
+		"/Volumes/MAC/working/PHP/GcmChat/include/db_handler.php",
+		"/Volumes/MAC/working/PHP/GcmChat/include/db_connect.php",
+		"/Volumes/MAC/working/PHP/GcmChat/include/config.php",
+		"/Volumes/MAC/working/PHP/GcmChat/v1/.htaccess",
+		"/Volumes/MAC/working/PHP/GcmChat/v1/index.php",
+		"/Users/quang/Downloads/chiSoan/SpectreServices/spectrecore.cpp",
+		"/Volumes/DATA/Programming/phonegap/DemoDb1/edit.html",
+		"/Volumes/DATA/Programming/phonegap/DemoDb1/index.html",
+		"/Users/quang/Desktop/DemoDB/platforms/android/assets/www/js/index.js",
+		"/Users/quang/Desktop/Test/www/js/index.js",
+		"/Users/quang/Desktop/Test/www/index.html",
+		"/Users/quang/Desktop/DemoDB/www/index.html",
+		"/Users/quang/Desktop/DemoSqlite/platforms/android/assets/www/js/index.js",
+		"/Users/quang/Desktop/DemoSqlite/platforms/android/assets/www/index.html",
+		"/Users/quang/Desktop/DemoDB/www/js/index.js",
+		"/Volumes/DATA/Programming/phonegap/DemoDB/www/index.html",
+		"/Volumes/MAC/working/ChiSoan/C/aa/system/gui/CMakeLists.txt",
+		"/Volumes/MAC/working/ChiSoan/C/aa/system/gui/maid_gui.h",
+		"/Volumes/MAC/working/ChiSoan/C/aa/system/gui/maid_gui.cpp",
+		"/Volumes/MAC/working/ChiSoan/C/aa/system/backend/include/DeviceManager.h",
+		"/Volumes/MAC/working/ChiSoan/C/aa/system/gui/main.cpp",
+		"/Users/quang/Desktop/DemoSqlite/www/index.html",
+		"/Users/quang/Desktop/DemoSqlite/www/js/index.js",
+		"/Users/quang/Desktop/MySqlite/www/js/index.js",
+		"/Volumes/DATA/Programming/phonegap/DemoDB/www/js/index.js",
+		"/Users/quang/Desktop/MySqlite/www/index.html",
+		"/Applications/MAMP/htdocs/test/process_upload.php",
+		"/Users/quang/Desktop/DemoLocalStorage/www/js/index.js",
+		"/Users/quang/Desktop/DemoLocalStorage/www/index.html",
+		"/Users/quang/Desktop/DemoFile/www/js/index.js",
+		"/Users/quang/Desktop/DemoFile/www/index.html",
+		"/Volumes/DATA/Programming/phonegap/DemoCamera/www/js/index.js",
+		"/Volumes/MAC/working/ChiSoan/C/aa/system/README.md",
+		"/Volumes/DATA/Programming/phonegap/cordova-sqlite-with-jquery-ajax-api-demo-master/www/js/index.js",
+		"/Volumes/DATA/Programming/phonegap/jQuery-Mobile-Starter-master/index.html",
+		"/Volumes/DATA/Programming/phonegap/DemoSqlite/www/js/index.js",
+		"/Volumes/DATA/Programming/phonegap/cordova-sqlite-with-jquery-ajax-api-demo-master/www/index.html",
+		"/Volumes/MAC/working/ChiSoan/C/aa/system/libfreenect2/CMakeLists.txt",
+		"/Volumes/MAC/working/ChiSoan/C/aa/node.txt",
+		"/Users/quang/Desktop/MySqlite/config.xml",
+		"/Volumes/MAC/working/ChiSoan/C/Spectre/QTNetworkDemo-master/src/global/QTNConst.h",
+		"/Volumes/MAC/working/ChiSoan/C/Spectre/QTNetworkDemo-master/src/server/QTNServerThread.h",
+		"/Volumes/MAC/working/ChiSoan/C/Spectre/QTNetworkDemo-master/src/server/QTNServerThread.cpp",
+		"/Volumes/MAC/working/ChiSoan/C/Spectre/QTNetworkDemo-master/src/global/QTNConst.cpp",
+		"/Volumes/MAC/working/ChiSoan/C/Spectre/QTNetworkDemo-master/src/QTNetworkDemo.h",
+		"/Volumes/MAC/working/ChiSoan/C/Spectre/QTNetworkDemo-master/src/QTNetworkDemo.cpp",
+		"/Volumes/MAC/working/ChiSoan/C/Spectre/QTNetworkDemo-master/src/client/QTNClient.h",
+		"/Volumes/MAC/working/ChiSoan/C/Spectre/QTNetworkDemo-master/src/client/QTNClient.cpp",
+		"/Volumes/MAC/working/ChiSoan/C/aa/system/backend/include/Backend.h",
+		"/Users/quang/Desktop/DemoCamera/www/index.html",
+		"/Volumes/MAC/working/ChiSoan/C/Spectre/QTNetworkDemo-master/src/server/QTNServer.cpp",
+		"/Volumes/MAC/working/ChiSoan/C/Spectre/QTNetworkDemo-master/src/server/QTNServer.h",
+		"/Users/quang/Desktop/DemoCamera/www/js/index.js",
+		"/Volumes/DATA/Programming/phonegap/jQuery-Mobile-Starter-master/js/app.js",
+		"/Users/quang/Desktop/DemoCam/DemoStorageAPI/www/index.html",
+		"/Users/quang/Desktop/DemoCam/www/js/index.js",
+		"/Users/quang/Desktop/DemoCam/www/index.html",
+		"/Volumes/DATA/Programming/phonegap/DemoDb/index.html",
+		"/Volumes/DATA/Programming/phonegap/DemoDb/js/index.js",
+		"/Volumes/DATA/Programming/phonegap/DemoDb/js/geturi.js",
+		"/Users/quang/Desktop/DemoDB/www/css/index.css",
+		"/Volumes/DATA/Programming/phonegap/DemoDb/edit.html",
+		"/Volumes/DATA/Programming/phonegap/phonegap-tut",
+		"/Users/quang/Desktop/Hello/www/css/index.css",
+		"/Users/quang/Desktop/Hello/www/index.html",
+		"/Users/quang/Desktop/Hello/www/js/index.js",
+		"/Users/quang/Desktop/HelloApp/www/js/index.js",
+		"/Users/quang/Desktop/HelloApp/www/css/index.css",
+		"/Users/quang/Desktop/HelloApp/www/index.html",
+		"/Volumes/DATA/Programming/phonegap/phonegap-day-master/part01-mpa/index.html",
+		"/Volumes/DATA/Programming/phonegap/phonegap-day-master/part01-mpa/product.html",
+		"/Users/quang/Desktop/Hello/www/css/styles.css",
+		"/Users/quang/Desktop/Hello/www/topcoat/css/topcoat-mobile-dark.css",
+		"/Volumes/DATA/Programming/phonegap/www/files-list.html",
+		"/Volumes/DATA/Programming/phonegap/www/index.html",
+		"/Volumes/MAC/working/ChiSoan/C/note.txt",
+		"/Volumes/MAC/working/ChiSoan/C/aa/ProjectMAID/ProjectMAID/Controllers/CargoController.cs",
+		"/Users/quang/Downloads/myData.xml",
+		"/Users/quang/Downloads/fpt.edu.vn.settingsapp_preferences.xml",
+		"/Volumes/MAC/working/ChiSoan/C/aa/server-licensing/server-licensing/Constants/ResponseMessages.cs",
+		"/Volumes/MAC/working/A.Duc/1/edit_assignment.html",
+		"/Volumes/MAC/working/A.Duc/1/scss/theme/sen_style_3.css",
+		"/Volumes/DATA/bk/A.Duc/senui/Platform/web/src/main/webapp/WEB-INF/pages/teacher/assessment/build.jsp",
+		"/Volumes/MAC/working/A.Duc/1/build_assessment.html",
+		"/Volumes/MAC/working/A.Duc/1/assessment.html",
+		"/Volumes/MAC/working/A.Duc/2/mybuildass.html",
+		"/Volumes/DATA/bk/A.Duc/senui/Platform/web/src/main/webapp/WEB-INF/pages/teacher/class/add.jsp",
+		"/Volumes/MAC/working/A.Duc/ref/bootbox-demo.html",
+		"/Volumes/MAC/working/A.Duc/ref/style.css",
+		"/Volumes/MAC/working/A.Duc/ref/menu1.html",
+		"/Volumes/MAC/working/A.Duc/2/myproduct.html",
+		"/Volumes/MAC/working/A.Duc/ref/menu.html",
+		"/Volumes/MAC/working/A.Duc/2/product",
+		"/Volumes/MAC/working/A.Duc/1/bookshelf_details.html",
+		"/Volumes/MAC/working/A.Duc/1/js/javascript_sen_3.js",
+		"/Volumes/MAC/working/A.Duc/1/js/scripts.js",
+		"/Volumes/MAC/working/A.Duc/1/js/jquery.js",
+		"/Volumes/MAC/working/A.Duc/2/aaa.html",
+		"/Volumes/MAC/working/index.xhtml",
+		"/Volumes/MAC/working/adminTemplate.xhtml",
+		"/Library/Frameworks/Maple.framework/Versions/2015/license/license.dat",
+		"/Volumes/MAC/working/Android/project/asset/thong tin png.txt",
+		"/Applications/NetBeans/NetBeans 8.0.2.app/Contents/Resources/NetBeans/etc/netbeans.conf",
+		"/Volumes/MAC/working/Learn/html/dom_add_event.html",
+		"/Volumes/MAC/working/Learn/html/dom_add_event_multi_tag.html",
+		"/Volumes/MAC/working/Learn/html/dom_validate.html",
+		"/Volumes/MAC/working/Learn/html/dom_css_event.html",
+		"/Volumes/MAC/working/Learn/html/index.html",
+		"/Users/quang/Library/Application Support/NetBeans/8.1/apache-tomcat-8.0.27.0_base/conf/tomcat-users.xml",
+		"/Users/quang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ui->lengthBox",
+			"calibrate",
+			"mViewer",
+			"getLog",
+			"rounded_value_to_qstring",
+			"mDeviceManager",
+			"/*",
+			"var db;",
+			"        \n",
+			"                    ",
+			"sel2Multi",
+			"dropbtn",
+			"dropdown",
+			"\";\n",
+			"li.clearfix",
+			"clearfix",
+			"page_wrapper",
+			"net.vn",
+			"cho.net.vn",
+			"c",
+			"cho.net.vn",
+			"connect",
+			"wait",
+			"lblRight"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"menu-item",
+			"menu",
+			"chomientay.vn"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "module5.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
